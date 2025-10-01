@@ -1,7 +1,7 @@
 # **INTRODUCE**
 
 ## **Please make sure to read!!!**
-+Serious warning: All the scripts below are malicious scripts, intended only for prank purposes. It is best not to use them yourself.
+Serious warning: All the scripts below are malicious scripts, intended only for prank purposes. It is best not to use them yourself.
 
 LEVEL :
 1 : Z
