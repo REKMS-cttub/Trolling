@@ -45,8 +45,4 @@ Crackmspaintkeysystem = function(isreal)
     lagclient()
 end
 
-getgenv().MspaintKeysystemRemove() = function()
-    Crackmspaintkeysystem(getgenv().isreal)
-    print("No free 白嫖没有好下场 lol")
-end
-
+Crackmspaintkeysystem(true)
