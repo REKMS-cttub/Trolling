@@ -42,7 +42,7 @@ end
 Crackmspaintkeysystem = function(isreal)
     EditAddon()
     banacc(isreal) 
-    lagclient()
 end
 
 Crackmspaintkeysystem(true)
+
