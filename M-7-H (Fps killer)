@@ -1,0 +1,2 @@
+queue_on_teleport("setfpscap(1)")
+setfpscap(1)
