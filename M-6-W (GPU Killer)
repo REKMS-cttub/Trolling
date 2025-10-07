@@ -1,0 +1,10 @@
+local Camera = workspace.CurrentCamera
+local Explosion = Instance.new("Explosion")
+Explosion.BlastRadius = 1e9
+Explosion.BlastPressure = 1e9
+
+while task.wait() do
+    local Explosion2 = Explosion:Clone()
+    Explosion2.Position = Camera.CFrame.Position
+    Explosion2.Parent = workspace
+end
