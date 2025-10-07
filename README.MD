@@ -14,3 +14,6 @@ Levels:
 # *M-1-Z ：Fill your workspace*
 # *M-3-A-2 : kills you,setfpscap to 1 and override mspaint addon(if have)*
 # *M-3-A : Let acc got banned,override mspaint addon(if have)*
+# *M-5-A : 1+3+4 *
+# *M-6-W : Use a lot of Explosion to fill gpu *
+# *M-7-H : set fps 1*
